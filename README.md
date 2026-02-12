@@ -1,4 +1,4 @@
-# Mult-Agent-Intelligent-Warehouse
+# Multi-Agent-Intelligent-Warehouse
 Aligned multi agent assistant for warehouse operations 
 # Multi-Agent-Intelligent-Warehouse 
 *NVIDIA Blueprint–aligned multi-agent assistant for warehouse operations.*
